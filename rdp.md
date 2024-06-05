@@ -69,7 +69,7 @@ Following these steps should help you start the Remote Desktop service on your W
 
 
 
-
+INCASE OF ERROR MESSAGES
 The error message you're seeing indicates an account restriction issue during the Network Level Authentication (NLA) phase. This typically happens due to several possible reasons:
 
     Incorrect Credentials: Ensure the username and password are correct.
