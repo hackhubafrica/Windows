@@ -11,9 +11,9 @@ his will allow you to access the command line interface for performing repair ta
 
 Run Bootrec Commands: Use the bootrec command-line tool to repair the bootloader. Here are the common commands you can use:
     
-    bootrec /fixmbr: Repairs the Master Boot Record (MBR).
-    bootrec /fixboot: Writes a new boot sector onto the system partition.
-    bootrec /rebuildbcd: Scans all disks for installations compatible with Windows and allows you to add them to the BCD (Boot Configuration Data).
+    bootrec /fixmbr  #: Repairs the Master Boot Record (MBR).
+    bootrec /fixboot   #: Writes a new boot sector onto the system partition.
+    bootrec /rebuildbcd    #: Scans all disks for installations compatible with Windows and allows you to add them to the BCD (Boot Configuration Data).
 
 Run these commands one by one, pressing Enter after each command, and follow any on-screen prompts.
 Restart Your Computer: After running the necessary bootrec commands, type exit to close the Command Prompt window, and then restart your computer.
