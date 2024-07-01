@@ -1,0 +1,67 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       26.0.0.0 - 26.255.255.255
+CIDR:           26.0.0.0/8
+NetName:        DISANET26
+NetHandle:      NET-26-0-0-0-1
+Parent:          ()
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   DoD Network Information Center (DNIC)
+RegDate:        1995-05-01
+Updated:        2009-06-19
+Ref:            https://rdap.arin.net/registry/ip/26.0.0.0
+
+
+
+OrgName:        DoD Network Information Center
+OrgId:          DNIC
+Address:        3990 E. Broad Street
+City:           Columbus
+StateProv:      OH
+PostalCode:     43218
+Country:        US
+RegDate:        
+Updated:        2011-08-17
+Ref:            https://rdap.arin.net/registry/entity/DNIC
+
+
+OrgTechHandle: MIL-HSTMST-ARIN
+OrgTechName:   Network DoD
+OrgTechPhone:  +1-844-347-2457 
+OrgTechEmail:  disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+OrgTechRef:    https://rdap.arin.net/registry/entity/MIL-HSTMST-ARIN
+
+OrgAbuseHandle: REGIS10-ARIN
+OrgAbuseName:   Registration
+OrgAbusePhone:  +1-844-347-2457 
+OrgAbuseEmail:  disa.columbus.ns.mbx.arin-registrations@mail.mil
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/REGIS10-ARIN
+
+OrgTechHandle: REGIS10-ARIN
+OrgTechName:   Registration
+OrgTechPhone:  +1-844-347-2457 
+OrgTechEmail:  disa.columbus.ns.mbx.arin-registrations@mail.mil
+OrgTechRef:    https://rdap.arin.net/registry/entity/REGIS10-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+#
+
